@@ -1,6 +1,6 @@
 # Olive Knot AI — visual research presentation
 
-This compact web presentation uses the actual 2022 exhibition and prototype images. A photo-based [eight-slide PDF](media/public-presentation.pdf) and [PowerPoint](media/public-presentation.pptx) are available for offline viewing. For the original poster layout, open the [public poster PDF](media/public-research-poster.pdf), which removes source code and detailed methods from the file itself.
+This compact presentation uses the supplied 2022 exhibition and prototype images. An [eight-slide PDF](media/public-presentation.pdf) and [PowerPoint](media/public-presentation.pptx) are available for offline viewing. The [English poster PDF](media/public-research-poster.pdf) follows the original 2022 layout and retains its figures, methods, numerical results, and historical development-code screenshot.
 
 ## 1. The project in the room
 
@@ -26,7 +26,7 @@ The screens show **98.03%** and **93.27%** confidence for these individual examp
 |---|---|
 | ![Original olive branch specimen](media/olive-branch-specimen.jpg) | ![Original laboratory sample plate](media/laboratory-sample.jpg) |
 
-The poster describes 12 saplings in four groups, observed for about four months. Its reported treatment observations are preliminary, and the detailed protocol is kept private.
+The poster describes 12 saplings in four groups, observed for about four months. Its reported treatment observations are preliminary; the methods and comparison table are visible in the English poster.
 
 ## 5. Training record and award
 
@@ -34,8 +34,12 @@ The poster describes 12 saplings in four groups, observed for about four months.
 
 ![Regional first-place Software award graphic](media/regional-first-place-graphic.jpg)
 
+![Supplied portrait with trophy and certificate](media/award-portrait-supplied.jpg)
+
+![Supplied wide view of the 2022 awards ceremony stage](media/award-ceremony-supplied.webp)
+
 This graphic documents the **regional first-place** Software result. TÜBİTAK's [archived official final list](https://web.archive.org/web/20240520125501id_/https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) documents the separate **national second-place** Software award.
 
 ## 6. What is public
 
-The [public poster PDF](media/public-research-poster.pdf) retains the original research presentation's look and result figures while obscuring source code, doses, detailed procedures and model/data workflow. My implementation, weights, datasets and unredacted poster are private. [Rights and media credits](MEDIA_CREDITS.md).
+The [English poster PDF](media/public-research-poster.pdf) retains the original research presentation's visual structure and scientific record. The code screenshot represents a 2022 development version, not the finished implementation. The finished code repository, model weights, training-image dataset, and original Turkish poster PDF remain private. [Rights and media credits](MEDIA_CREDITS.md).
