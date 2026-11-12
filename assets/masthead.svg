@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340" role="img" aria-labelledby="t d">
+<title id="t">Eren Arikan — software engineering and hardware systems</title><desc id="d">A typographic masthead with equal emphasis on software engineering and hardware and embedded systems.</desc>
+<rect width="1400" height="340" fill="#0D1117"/>
+<path d="M40 42H78M40 42V80M1360 42H1322M1360 42V80M40 298H78M40 298V260M1360 298H1322M1360 298V260" stroke="#667481" fill="none"/>
+<text x="66" y="70" font-family="Arial,Helvetica,sans-serif" fill="#A5ADB6" font-size="17" letter-spacing="3">COMPUTER ENGINEERING / uOTTAWA</text>
+<text x="1280" y="70" font-family="Arial,Helvetica,sans-serif" fill="#E7B785" font-size="17" letter-spacing="3">E / A</text>
+<text x="60" y="210" font-family="Arial,Helvetica,sans-serif" fill="#F1F0EB" font-size="140" font-weight="700" letter-spacing="-7">EREN ARIKAN</text>
+<path d="M66 244H1334" stroke="#303943"/>
+<path d="M66 244H230" stroke="#E7B785" stroke-width="3"/>
+<text x="66" y="288" font-family="Arial,Helvetica,sans-serif" fill="#D8DFE4" font-size="25" letter-spacing="2">SOFTWARE ENGINEERING</text>
+<text x="752" y="288" font-family="Arial,Helvetica,sans-serif" fill="#D8DFE4" font-size="25" letter-spacing="2">HARDWARE &amp; EMBEDDED</text>
+<path d="M690 267L677 291" stroke="#E7B785" stroke-width="2"/>
+</svg>

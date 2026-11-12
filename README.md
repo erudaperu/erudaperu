@@ -1,49 +1,65 @@
-<img src="assets/profile-hero.svg" alt="Eren Arikan — software and hardware. I build across both." width="100%">
+<img src="assets/masthead.svg" alt="Eren Arikan — software engineering and hardware & embedded systems" width="100%">
 
-I'm **Eren Arikan**, a Computer Engineering student at the **University of Ottawa**. I build software and work close to the hardware it runs on—from Python analytics and C++ simulations to STM32 firmware, sensors and telemetry.
+<p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#hardware">HARDWARE</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="https://github.com/erudaperu/apogee/tree/main/learning">CODING LAB</a></p>
 
-**I'm pursuing both software engineering and hardware/embedded internships.** I like owning a problem from its requirements through implementation, testing and documentation.
+I'm **Eren**, a Computer Engineering student at **uOttawa**. I work across software and embedded hardware, and I'm pursuing internships in both. I like being able to follow a system from the code to what it actually does.
 
-| Software engineering | Hardware & embedded systems |
-| :--- | :--- |
-| Python analytics, data validation and testable modules | C and ARM assembly on STM32L552 |
-| C++ numerical simulation and model assumptions | ADC/DMA, PWM, encoder feedback and UART telemetry |
-| Application architecture and documented interfaces | Host checks, target harnesses and recorded board validation |
+**Python · C · C++ · ARM assembly** &nbsp; / &nbsp; **analytics · simulation · sensors · telemetry**
 
-## 01 / LAILOW · My flagship project
+<a id="lailow"></a>
+## LAILOW
 
-<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/hero.svg" alt="LAILOW — campaign intelligence, with a runnable synthetic analytics demo" width="100%"></a>
+**My flagship project · campaign intelligence**
 
-I'm developing **LAILOW** to connect campaign metrics, visual analysis and question answering. My public case study walks through the product, explains the architecture and includes a runnable Python analytics demo with fictional data. I keep the original source and business data private.
+<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/signal-study.gif" alt="LAILOW synthetic-data study: over 14 fictional days, NOVA spends $383.25 with zero sales, producing a review signal" width="100%"></a>
 
-**[Explore LAILOW →](https://github.com/erudaperu/LAILOW-showcase)** · [Run my synthetic demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) · [See the architecture](https://github.com/erudaperu/LAILOW-showcase#architecture)
+I'm building a workflow that connects campaign metrics, visual analysis and question answering. My public demo turns **42 fictional records** into traceable metrics and review signals. The animation above plots its generated data; it is an explanation, not a recording of the private app.
 
-## 02 / STM32 · Motor control & telemetry
+**[Explore the case study ↗](https://github.com/erudaperu/LAILOW-showcase)** &nbsp; · &nbsp; [Run the demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) &nbsp; · &nbsp; [Architecture](https://github.com/erudaperu/LAILOW-showcase#architecture) &nbsp; · &nbsp; [Static visual](https://github.com/erudaperu/LAILOW-showcase/blob/main/assets/signal-study.png)
 
-<a href="https://github.com/erudaperu/CEG3536_Lab"><img src="assets/stm32-system.svg" alt="STM32 motor control and telemetry: acquisition, event-driven firmware, PWM and UART. University team project." width="100%"></a>
-
-In this University of Ottawa team project, I worked on an event-driven motor-control system with sensor acquisition, encoder feedback, PWM, emergency-stop handling and serial telemetry. I document the architecture and validation evidence, including the measurements that remain open.
-
-**[Explore the system →](https://github.com/erudaperu/CEG3536_Lab)** · [Review the validation evidence](https://github.com/erudaperu/CEG3536_Lab#validation-evidence)
-
-## 03 / APOGEE · My next big solo build
-
-<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/hero.svg" alt="APOGEE — my solo rocket systems project, currently in planning and requirements" width="100%"></a>
-
-**In progress · planning and requirements.** I'm starting a solo model-rocket project with a commercial motor, bringing mechanical design, electronics and software together. I'm defining the models, subsystem interfaces and test plan first. My planned work spans CAD, avionics, embedded firmware, a ground station and offline data/AI analysis.
-
-My first milestone pairs a model-rocket concept and avionics plan with a synthetic-data replay tool. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
-
-**[Follow APOGEE →](https://github.com/erudaperu/apogee)** · [Read my roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap) · [See the open decisions](https://github.com/erudaperu/apogee/tree/main/docs/decisions)
-
-## 04 / Black Hole Simulation · Numerical software
-
-**C++17 · modelling · reproducible output**
-
-I built a compact simulation of particle motion under a softened central force. I document the model assumptions, build steps and trajectory output so the behaviour is straightforward to inspect.
-
-**[Explore the simulation →](https://github.com/erudaperu/Black-Hole-Simulation)** · [See the trajectory](https://github.com/erudaperu/Black-Hole-Simulation/blob/main/docs/trajectory.svg)
+<sub>I keep the original LAILOW source and business data private.</sub>
 
 ---
 
-**How I work:** I make the assumptions visible, keep interfaces understandable and use test results to separate what works from what I still need to prove.
+<a id="hardware"></a>
+## From code to hardware
+
+**STM32 motor control & telemetry · university team project**
+
+<a href="https://github.com/erudaperu/CEG3536_Lab"><img src="https://raw.githubusercontent.com/erudaperu/CEG3536_Lab/main/preuves/materiel/photo_plateforme.jpg" alt="Actual STM32 motor-control platform on the test bench" width="100%"></a>
+
+I worked on an **STM32L552** system using **C and ARM assembly**, with ADC/DMA acquisition, encoder feedback, PWM and UART telemetry. The repository connects the architecture to host checks and recorded board results, with open measurements stated clearly.
+
+**[Inspect the hardware project ↗](https://github.com/erudaperu/CEG3536_Lab)** &nbsp; · &nbsp; [Recorded measurements](https://github.com/erudaperu/CEG3536_Lab/blob/main/preuves/materiel/BILAN_PROVISOIRE.md) &nbsp; · &nbsp; [Motor traces](https://github.com/erudaperu/CEG3536_Lab/blob/main/preuves/materiel/courbes_moteur_final.png)
+
+---
+
+<a id="apogee"></a>
+## Next on my bench: APOGEE
+
+**My solo model-rocket project · planning and requirements**
+
+I'm starting a model rocket around a commercial motor, with my own work spanning CAD, avionics, firmware and ground software. I'm also using it to become a stronger programmer: **C/C++ and embedded firmware first, with Python for tests, replay and analysis**.
+
+My starting resources are an **ESP8266**, a **Jetson**, soldering access and free uOttawa 3D printing. I'm beginning with what I have, one hour a day. The plan is written; the build and learning exercises are ahead of me.
+
+| My hardware path | My coding path |
+| :--- | :--- |
+| Model and CAD → bench instrumentation → integration | C/C++ buffers and interfaces → Python replay → measured data |
+| Drawings, fit checks and recorded observations | Code I can explain, test, debug and improve myself |
+
+**[Follow APOGEE ↗](https://github.com/erudaperu/apogee)** &nbsp; · &nbsp; [My coding track](https://github.com/erudaperu/apogee/tree/main/learning) &nbsp; · &nbsp; [Build roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap)
+
+<details>
+<summary><strong>More engineering: C++ numerical simulation</strong></summary>
+<br>
+
+I built a compact **C++17 simulation** of particle motion under a softened central force. I document the assumptions, build steps and trajectory output so the behaviour is straightforward to inspect.
+
+[Explore Black Hole Simulation](https://github.com/erudaperu/Black-Hole-Simulation) · [View the trajectory](https://github.com/erudaperu/Black-Hole-Simulation/blob/main/docs/trajectory.svg)
+
+</details>
+
+---
+
+<sub>I keep the code, decisions and evidence here on GitHub.</sub>
