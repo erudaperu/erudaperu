@@ -26,6 +26,12 @@ The system's public-facing story is straightforward: **observe a branch, classif
 
 The accompanying research investigated differences in disease progression among comparison groups, including a group involving *Bacillus subtilis*. The project poster describes slower symptom progression under the combined condition during the study period. This is an early experimental observation, **not** proof of a generally effective agricultural treatment.
 
+## Interface demonstration
+
+<img src="assets/mobile-experience.svg" alt="Illustrated reconstruction of two original mobile prototype screenshots, showing stage 1 and stage 4 predictions and confidence scores." width="100%">
+
+<sub>Illustrative reconstruction of the original mobile prototype screenshots. The branch photographs and full original application are not distributed here. Individual confidence values describe the two pictured predictions, not model-wide accuracy.</sub>
+
 ## What the demonstrations show
 
 The original materials include phone screenshots with stage-1 and stage-4 predictions and confidence percentages. **Per-image confidence (such as the 98.03% value in one screenshot) is not the same as evaluation accuracy**. The poster's 88.33% accuracy figure is reported separately.
