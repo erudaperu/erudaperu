@@ -1,57 +1,63 @@
-<img src="assets/hero.svg" alt="Olive Knot AI — national second-place award-winning research" width="100%">
+<a href="media/exhibition-booth.jpg"><img src="media/exhibition-booth.jpg" alt="Eren Arıkan at the 2022 TÜBİTAK research exhibition, standing in front of his olive knot poster with olive specimens and a mobile prototype on the table" width="100%"></a>
 
-# Olive Knot AI | National award-winning computer vision
+<sub>At the 2022 TÜBİTAK exhibition with the research poster, olive specimens and working prototype. [View original photo](media/exhibition-booth.jpg).</sub>
 
-**National Second Place in Software — TÜBİTAK 2204-A (2022)** · **Regional first place** · **Regeneron ISEF-linked selection pathway**
+# Olive Knot AI — computer vision and plant research
 
-**25,095 project submissions · 37,283 participating students · 216 national-final projects**  
-<sub>Official 2022 competition-wide figures across all 12 fields; the second-place award is in Software. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Source: TÜBİTAK</a>.</sub>
+**National second place in Software, TÜBİTAK 2204-A (2022)** · Regional first place in Software
 
-An independent research project by **Hüseyin Eren Arıkan (Eren Arikan)**, exploring computer-vision classification of olive knot disease, a mobile prediction prototype, and scientific observation of how plant disease progressed under comparison conditions.
+I built a research prototype to classify the visible stage of olive knot disease from plant images, put the classifier into a mobile app, and studied disease progression in olive saplings over four months. The public archive shows the work as it was presented: real photographs, prototype screens, the training chart, and a public edition of my original research poster.
 
-> **National recognition:** TÜBİTAK's official [2022 final awards list](https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) names *Hüseyin Eren Arıkan*, supervising teacher *Volkan Gönen*, and the olive knot project in the **Software** category with **İKİNCİLİK ÖDÜLÜ** (second-place award). This is a **national** result.
+**[View the public poster (PDF)](media/public-research-poster.pdf)** · [Public presentation (PDF)](media/public-presentation.pdf) · [PowerPoint](media/public-presentation.pptx) · [Award evidence](AWARDS_AND_SOURCES.md) · [Media and rights](MEDIA_CREDITS.md)
 
-## Why this achievement matters
+## The original poster, ready to explore
 
-The TÜBİTAK 2204-A high-school research competition is a long-running national science and engineering program. In **2022**, it received **25,095 project submissions** from **37,283 students** across Türkiye and all **12 competition fields**. Following regional judging, **216 projects** advanced to the national final. These are competition-wide totals, not the size of the Software category alone. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Official competition statistics and ceremony report</a>.
+<a href="media/public-research-poster.pdf"><img src="media/public-research-poster.jpg" alt="Public edition of Eren Arıkan's 2022 olive knot research poster; title, research context, plant images, results and charts remain visible while source code and detailed methods are obscured" width="100%"></a>
 
-**Presidential ceremony:** The 2022 national awards were held at the **Presidential Complex in Ankara** with President Recep Tayyip Erdoğan present. The official report specifies that the President personally handed out first-place awards, while ministers and the TÜBİTAK president presented second-place and other prizes. That official distinction is retained in this portfolio.
+<sub>[Open the readable PDF](media/public-research-poster.pdf). This is a public edition of the original 2022 poster. The central code screenshot, exact experimental doses and procedures, and model/data workflow were removed from the PDF itself. The original stays private.</sub>
 
-**Regeneron ISEF connection:** TÜBİTAK separately reassesses national award-winning projects to choose Türkiye's representatives at international fairs, including **Regeneron ISEF**. This project is part of that national-award selection pathway; no unsupported claim of an ISEF medal or international attendance is made. [TÜBİTAK report](https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi).
+## What I built and investigated
 
-## At a glance
+| Workstream | Public evidence | Outcome |
+|---|---|---|
+| Image classification | Four visible disease-stage classes; CNN developed with TensorFlow/Keras | The 2022 poster reports **88.33% classification accuracy**. This is a self-reported research result, not an independently validated field score. |
+| Mobile prototype | Real stage-1 and stage-4 app screenshots below | A phone interface displayed ranked stage predictions and confidence for an image. |
+| Plant study | Olive specimens, laboratory image, original poster's result plots | **12 olive saplings**, four comparison groups, approximately four months of observation. The reported plant findings are preliminary. |
 
-| Domain | Result |
-|---|---|
-| **Computer vision** | A CNN-based classifier distinguishing **four disease stages**, developed with TensorFlow/Keras |
-| **Mobile inference** | Working phone prototype displaying classifications and per-image confidence scores |
-| **Reported evaluation** | **88.33% accuracy**, as reported in the original 2022 research poster |
-| **Experimental research** | **12 olive saplings**, four comparison groups and four months of observations |
-| **Recognition** | TÜBİTAK **2022 national second place in Software**, following regional first-place recognition |
+The research question was whether a phone image could give a useful, fast indication of **visible disease stage**. I also examined how the disease progressed under comparison conditions involving *Bacillus subtilis*. The app was a research demonstration; it was not a certified diagnosis, field-validated product, or proven treatment.
 
-## Research concept
+## See the project at the exhibition
 
-<img src="assets/overview.svg" width="100%" alt="High-level conceptual diagram: plant images to four-stage classifier to mobile result, alongside independent plant-study observations">
+<table><tr><td width="55%"><a href="media/research-demonstration.jpg"><img src="media/research-demonstration.jpg" alt="Eren demonstrating the olive knot project in front of the original poster and an olive specimen" width="100%"></a><br><sub>Explaining the project with a specimen and the original poster. [Full image](media/research-demonstration.jpg)</sub></td><td width="45%"><a href="media/regional-first-place-graphic.jpg"><img src="media/regional-first-place-graphic.jpg" alt="2022 TÜBİTAK and İstanbul Technical University graphic naming Hüseyin Eren Arıkan first place in the regional Software category" width="100%"></a><br><sub>The supplied **regional first-place** announcement. The national second-place result is documented separately in the [official final list](AWARDS_AND_SOURCES.md). [Full image](media/regional-first-place-graphic.jpg)</sub></td></tr></table>
 
-The question was whether imagery could help identify the **visible stage** of olive knot disease in a form that could be used without specialized laboratory equipment. A parallel plant study investigated disease progression and the potential role of *Bacillus subtilis* under experimental conditions. The work is a research prototype, **not** a validated commercial diagnosis or treatment.
+## Mobile prototype — real screens
 
-## Mobile prototype
+<table><tr><td width="50%"><a href="media/mobile-stage-1.jpg"><img src="media/mobile-stage-1.jpg" alt="Original mobile prototype showing an olive branch image and a stage-1 prediction with 98.03 percent confidence" width="100%"></a><br><sub>Stage-1 example: **98.03% prediction confidence** for this image. [Full screen](media/mobile-stage-1.jpg)</sub></td><td width="50%"><a href="media/mobile-stage-4.jpg"><img src="media/mobile-stage-4.jpg" alt="Original mobile prototype showing an olive branch image and a stage-4 prediction with 93.27 percent confidence" width="100%"></a><br><sub>Stage-4 example: **93.27% prediction confidence** for this image. [Full screen](media/mobile-stage-4.jpg)</sub></td></tr></table>
 
-<img src="assets/mobile-experience.svg" alt="Illustrated reconstruction of the mobile model showing a stage 1 example and a stage 4 example" width="100%">
+These percentages are the prototype's **per-image predictions**, separate from the poster's reported overall accuracy. They should not be read as clinical or agricultural reliability estimates.
 
-The original app screenshots show stage-1 and stage-4 predictions, including **98.03%** and **93.27%** confidence in two respective examples. These are **prediction confidences**, distinct from the research poster's reported overall accuracy.
+<a href="media/mobile-app-icon.png"><img src="media/mobile-app-icon.png" alt="Original phone home screen showing the Kanser Tespit mobile app icon" width="260"></a>
 
-## Presentation and photographic archive
+<sub>The original “Kanser Tespit” app icon on the phone home screen. [Full image](media/mobile-app-icon.png).</sub>
 
-I have a curated public research presentation made from my **original exhibition photos, award graphic, plant photographs, mobile screenshots and training curve**. A **source-free [web presentation](PRESENTATION.md)** is provided here, with [award records and citations](AWARDS_AND_SOURCES.md) and [media disclosures](MEDIA_CREDITS.md). The PDF, PowerPoint and selected full-resolution photo assets are prepared separately for repository upload; the GitHub connector does not currently support attaching those binary files.
+## Research images and training record
 
-The original full 2022 poster is **not** redistributed here because it contains code screenshots and detailed experimental procedures. This is an intentionally limited public release.
+<table><tr><td width="50%"><a href="media/olive-branch-specimen.jpg"><img src="media/olive-branch-specimen.jpg" alt="Original photograph of an olive branch specimen used in the project presentation" width="100%"></a><br><sub>Olive branch specimen. [Full image](media/olive-branch-specimen.jpg)</sub></td><td width="50%"><a href="media/laboratory-sample.jpg"><img src="media/laboratory-sample.jpg" alt="Original photograph of a red laboratory sample plate from the plant research" width="100%"></a><br><sub>Laboratory sample from the plant study. [Full image](media/laboratory-sample.jpg)</sub></td></tr></table>
 
-## Intellectual property
+<a href="media/training-validation-chart.jpg"><img src="media/training-validation-chart.jpg" alt="Original notebook photograph showing noisy training and validation accuracy and loss curves over about 110 training epochs" width="100%"></a>
 
-**© 2026 Hüseyin Eren Arıkan. All rights reserved for original owned materials.** This repository does not grant an open-source licence to the unpublished software, model weights, data, or implementation. Institutional marks, official documents and photos owned by others remain with their rights holders. See [LICENSE.md](LICENSE.md) before reusing any material.
+<sub>Original training and validation chart. The visible variation is part of the experiment record; it is not evidence of performance on an independent external dataset. [Full image](media/training-validation-chart.jpg).</sub>
 
-**Researcher and software developer:** Hüseyin Eren Arıkan  
-**Supervising teacher (2022 research):** Volkan Gönen
+## Recognition and context
 
-[Back to my GitHub profile](https://github.com/erudaperu)
+TÜBİTAK's [archived official 2022 national-final list](https://web.archive.org/web/20240520125501id_/https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) records **Hüseyin Eren Arıkan**, advisor **Volkan Gönen**, and this project as an **İkincilik Ödülü** (second-place award) in **Yazılım** (Software). The [2022 TÜBİTAK competition report](https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi) reports **25,095 project submissions**, **37,283 participating students** and **216 national-final projects** across all 12 fields. Those totals are competition-wide, not a Software-only ranking.
+
+The 2022 national awards ceremony took place at the Presidential Complex with President Recep Tayyip Erdoğan present. TÜBİTAK says he presented first-place prizes; ministers and TÜBİTAK leadership presented second-place prizes. National award winners could be considered in a further **Regeneron ISEF** selection process; a national prize did not automatically mean ISEF participation. [Award details and source notes](AWARDS_AND_SOURCES.md).
+
+## Public release and rights
+
+The original source code, model weights, training images, detailed model architecture, laboratory procedures, and unredacted poster remain private. This archive documents the problem, prototype and reported results without releasing the implementation. The original photographs are preserved as supplied, apart from the separately prepared public poster edition.
+
+**© 2026 Hüseyin Eren Arıkan. All rights reserved for original materials I own.** No open-source licence is granted. Institutional logos, official documents, graphics and photographs belonging to others remain with their respective rights holders. See [LICENSE.md](LICENSE.md) and [MEDIA_CREDITS.md](MEDIA_CREDITS.md).
+
+[← Back to my GitHub profile](https://github.com/erudaperu)

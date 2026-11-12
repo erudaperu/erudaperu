@@ -2,12 +2,12 @@
 
 ## National second place — Software, 2022
 
-The official TÜBİTAK 2022 national-final results list identifies **HÜSEYİN EREN ARIKAN** of İstanbul Özel Saint Michel Fransız Lisesi with advisor **VOLKAN GÖNEN** and the project **"Zeytin Dal Kanserinin Görüntü İşleme ile Teşhisi ve Bacillus Subtilis ile Tedavisi"**.
+The official TÜBİTAK 2022 national-final results list (now available through a working archived copy because the original URL returns 404) identifies **HÜSEYİN EREN ARIKAN** of İstanbul Özel Saint Michel Fransız Lisesi with advisor **VOLKAN GÖNEN** and the project **"Zeytin Dal Kanserinin Görüntü İşleme ile Teşhisi ve Bacillus Subtilis ile Tedavisi"**.
 
 - Field: **YAZILIM** (Software)
 - National final result: **İKİNCİLİK ÖDÜLÜ** (second-place award)
 - Listed at item **35** in the final results
-- Source: [2022 TÜBİTAK official national-final results, PDF](https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf)
+- Source: [archived copy of the 2022 TÜBİTAK official national-final results, PDF](https://web.archive.org/web/20240520125501id_/https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf)
 
 ## Regional recognition
 

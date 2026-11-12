@@ -1,34 +1,41 @@
-# Public research presentation · Web edition
+# Olive Knot AI — visual research presentation
 
-**Olive Knot AI — National second place in Software, TÜBİTAK 2022**
+This compact web presentation uses the actual 2022 exhibition and prototype images. A photo-based [eight-slide PDF](media/public-presentation.pdf) and [PowerPoint](media/public-presentation.pptx) are available for offline viewing. For the original poster layout, open the [public poster PDF](media/public-research-poster.pdf), which removes source code and detailed methods from the file itself.
 
-This is an accessible, code-free web edition of the project's photographic slide presentation. The photo-based **PowerPoint and PDF were prepared separately**, using the original project exhibition photographs, award graphic, plant images and two screenshots from the mobile prototype. Binary publication to this repository is pending upload.
+## 1. The project in the room
 
-## 01 · Project
-Olive knot disease stage detection with machine learning, together with experimental research into disease progression and possible biocontrol.
+![Eren Arıkan at the TÜBİTAK booth with poster, plant specimens and mobile prototype](media/exhibition-booth.jpg)
 
-## 02 · Recognition
-**2022 national second place in Software** in TÜBİTAK's 53rd High School Students Research Projects Competition. [Official final result](https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf).
+My 2022 project brought together a four-stage olive knot image classifier, a mobile demonstration and an olive-sapling study. The [national second-place Software result](AWARDS_AND_SOURCES.md) followed regional first-place recognition.
 
-## 03 · Problem
-Use a plant image to communicate visible disease-stage information to someone who does not have specialist diagnostic tools.
+## 2. Research question
 
-## 04 · Experimental context
-Four comparison groups, 12 olive saplings and approximately four months of observation. Results are preliminary research findings rather than proof of a commercial treatment.
+Could a plant image help identify the visible stage of olive knot disease? I trained a CNN-based classifier and displayed stage predictions in a phone app. This was a research prototype, not a certified diagnostic tool.
 
-## 05 · Mobile prototype
-An original app interface presented ranked stage predictions. Two photos from the prototype show stage 1 at 98.03% confidence and stage 4 at 93.27% confidence.
+## 3. Prototype evidence
 
-## 06 · Reported evaluation
-The original research poster reported **88.33% classification accuracy**, distinct from confidence for a particular screenshot. A cropped chart of its model training and validation behavior appears in the prepared slide deck.
+| Stage 1 example | Stage 4 example |
+|---|---|
+| ![Original mobile stage-1 prediction screen](media/mobile-stage-1.jpg) | ![Original mobile stage-4 prediction screen](media/mobile-stage-4.jpg) |
 
-## 07 · International science pathway
-TÜBİTAK's national competition forms part of the selection process for **Regeneron ISEF**. Winning a national prize does not by itself establish ISEF participation.
+The screens show **98.03%** and **93.27%** confidence for these individual examples. The poster separately reports **88.33%** classification accuracy; no independent external test result is claimed here.
 
-## 08 · Presidential awards
-The national award ceremony took place at Türkiye's Presidential Complex, in the presence of President Recep Tayyip Erdoğan. The [official report](https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi) details the award presenters.
+## 4. Plant and laboratory work
 
-## 09 · What stays private
-Source code, model weights, the training image collection, internal architecture and the unredacted original poster.
+| Olive specimen | Laboratory sample |
+|---|---|
+| ![Original olive branch specimen](media/olive-branch-specimen.jpg) | ![Original laboratory sample plate](media/laboratory-sample.jpg) |
 
-**© 2026 Hüseyin Eren Arıkan. All rights reserved for original owned materials.** See [LICENSE.md](LICENSE.md).
+The poster describes 12 saplings in four groups, observed for about four months. Its reported treatment observations are preliminary, and the detailed protocol is kept private.
+
+## 5. Training record and award
+
+![Original training and validation chart](media/training-validation-chart.jpg)
+
+![Regional first-place Software award graphic](media/regional-first-place-graphic.jpg)
+
+This graphic documents the **regional first-place** Software result. TÜBİTAK's [archived official final list](https://web.archive.org/web/20240520125501id_/https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) documents the separate **national second-place** Software award.
+
+## 6. What is public
+
+The [public poster PDF](media/public-research-poster.pdf) retains the original research presentation's look and result figures while obscuring source code, doses, detailed procedures and model/data workflow. My implementation, weights, datasets and unredacted poster are private. [Rights and media credits](MEDIA_CREDITS.md).

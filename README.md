@@ -1,4 +1,6 @@
-<img src="assets/masthead.svg" alt="Eren Arikan — software engineering and hardware & embedded systems" width="100%">
+<a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/research-demonstration.jpg" alt="Eren Arıkan demonstrating his olive knot research beside the original poster and an olive specimen" width="100%"></a>
+
+<sub>Presenting my olive knot research with a specimen and original poster. [See the project evidence](research/olive-knot-ai/README.md).</sub>
 
 <p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#research">RESEARCH</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
 
@@ -24,20 +26,17 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 <a id="research"></a>
 ## Olive Knot AI | Award-winning research
 
-**National Second Place in Software — TÜBİTAK 2204-A (2022)**
+<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/exhibition-booth.jpg" alt="Eren Arıkan at his 2022 TÜBİTAK exhibition booth with the research poster, olive specimens and mobile prototype" width="100%"></a>
 
-**25,095 project submissions · 37,283 participating students · 216 national-final projects**  
-<sub>Official 2022 competition-wide figures across all 12 fields; my award is in Software. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Source: TÜBİTAK</a>.</sub>
+<sub>My research project on display at the 2022 TÜBİTAK exhibition. [See the original photo](research/olive-knot-ai/media/exhibition-booth.jpg).</sub>
 
-<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/assets/hero.svg" alt="Olive Knot AI — national software second-place project, 2022 TÜBİTAK" width="100%"></a>
+**National second place in Software — TÜBİTAK 2204-A (2022)**, following regional first place. I built a four-stage olive knot image classifier and mobile prototype, and ran a four-month study involving 12 olive saplings. The original poster reports **88.33% classification accuracy** as a research result.
 
-My independent research project combined **CNN-based disease-stage classification**, an on-device mobile prototype, and a four-month agricultural study involving 12 olive saplings. The original research poster reports **88.33% classification accuracy**.
+<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/public-research-poster.jpg" alt="Public edition of the original Olive Knot AI research poster, with code and detailed procedures obscured" width="100%"></a>
 
-- **National award:** TÜBİTAK's [official 2022 results list](https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) records my project as **second place nationally in Software**, following regional first-place recognition.
-- **National ceremony:** the competition culminated in an [awards ceremony at Türkiye's Presidential Complex](https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi), attended by President Recep Tayyip Erdoğan.
-- **ISEF connection:** national prize-winning projects are considered in TÜBİTAK's further selection for **Regeneron ISEF** and other international science fairs.
+<sub>The original poster's public edition. [Open the PDF](research/olive-knot-ai/media/public-research-poster.pdf).</sub>
 
-**[Explore the research ↗](https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai)** · [Web presentation](https://github.com/erudaperu/erudaperu/blob/main/research/olive-knot-ai/PRESENTATION.md) · [Awards and sources](https://github.com/erudaperu/erudaperu/blob/main/research/olive-knot-ai/AWARDS_AND_SOURCES.md)
+**[Explore the photos, prototype and research ↗](https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai)** · [Public presentation](research/olive-knot-ai/media/public-presentation.pdf) · [Official award evidence](https://github.com/erudaperu/erudaperu/blob/main/research/olive-knot-ai/AWARDS_AND_SOURCES.md)
 
 <a id="apogee"></a>
 ## APOGEE
