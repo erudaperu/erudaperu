@@ -11,7 +11,7 @@ I'm **Eren Arikan**, a Computer Engineering student at **the University of Ottaw
 
 **My flagship project · campaign intelligence**
 
-<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-cover-v5.png" alt="LAILOW campaign intelligence — project artwork" width="100%"></a>
+<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-product-v6.png" alt="LAILOW campaign intelligence — product cover featuring the real dashboard with fictional data" width="100%"></a>
 
 I'm developing LAILOW to connect campaign metrics, visual analysis and question answering. My public case study pairs a prototype walkthrough with a **separate, runnable Python analytics demo** using fictional records. I keep the original application source and business data private.
 
@@ -26,9 +26,9 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 
 **My solo hardware + software project · in progress**
 
-<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-cover-v5.png" alt="APOGEE model-rocket concept artwork — planned project, not a built vehicle" width="100%"></a>
+<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-blueprint-v6.svg" alt="APOGEE conceptual model-rocket system blueprint — planned project, not a built vehicle" width="100%"></a>
 
-<sub>Concept art for my planned model rocket.</sub>
+<sub>Concept diagram for my planned model rocket.</sub>
 
 I'm defining an instrumented model rocket around a certified commercial motor, connecting **CAD and avionics** with **C/C++ firmware, ground software and offline analysis**.
 
