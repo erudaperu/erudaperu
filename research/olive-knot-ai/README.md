@@ -1,63 +1,54 @@
-<img src="assets/hero.svg" alt="Olive Knot AI - research and mobile inference" width="100%">
+<img src="assets/hero.svg" alt="Olive Knot AI — national second-place award-winning research" width="100%">
 
-# Olive Knot AI | Award-winning research
+# Olive Knot AI | National award-winning computer vision
 
-**Computer vision · Mobile machine learning · Agricultural research**
+**2022 TÜBİTAK national second place in Software** · **Regional first place** · **Regeneron ISEF-linked selection pathway**
 
-An interdisciplinary software research project exploring visual classification of olive knot disease stages and observations of a possible biocontrol approach. The aim was to make a complex agricultural condition easier to understand by building a **phone-based stage-classification prototype** alongside a small plant experiment.
+An independent research project by **Hüseyin Eren Arıkan (Eren Arikan)**, exploring computer-vision classification of olive knot disease, a mobile prediction prototype, and scientific observation of how plant disease progressed under comparison conditions.
 
-**This is a public case study, not a source-code release.** Original implementation, dataset, model weights, notebooks and detailed scientific protocols remain unpublished.
+> **National recognition:** TÜBİTAK's official [2022 final awards list](https://tubitak.gov.tr/sites/default/files/2750/final_sonuc_web_son.pdf) names *Hüseyin Eren Arıkan*, supervising teacher *Volkan Gönen*, and the olive knot project in the **Software** category with **İKİNCİLİK ÖDÜLÜ** (second-place award). This is a **national** result.
 
-## Key outcomes
+## Why this achievement matters
 
-| Area | What the original project documented |
-| :-- | :-- |
-| Computer vision | A supervised, CNN-based image classification workflow distinguishing **four disease stages** |
-| Mobile ML | A phone interface showing stage predictions and confidence distributions, using a TensorFlow Lite-format model |
-| Evaluation | **88.33% reported classification accuracy** (0.88333 in the project poster); not an independent field-performance estimate |
-| Experimental study | **12 olive saplings**, four comparison groups and a four-month observation period |
-| Recognition | The provided award graphic identifies **first place in the software category** for Huseyin Eren Arikan |
+The TÜBİTAK 2204-A high-school research competition is a long-running national science and engineering program. In **2022**, it received **25,095 project submissions** from **37,283 students** across Türkiye. The national final included 216 projects selected following regional judging. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Official competition statistics and ceremony report</a>.
 
-## Concept in one view
+**Presidential ceremony:** The 2022 national awards were held at the **Presidential Complex in Ankara** with President Recep Tayyip Erdoğan present. The official report specifies that the President personally handed out first-place awards, while ministers and the TÜBİTAK president presented second-place and other prizes. That official distinction is retained in this portfolio.
 
-<img src="assets/overview.svg" width="100%" alt="Conceptual public diagram of plant image, vision classifier, mobile result and parallel plant study">
+**Regeneron ISEF connection:** TÜBİTAK separately reassesses national award-winning projects to choose Türkiye's representatives at international fairs, including **Regeneron ISEF**. This project is part of that national-award selection pathway; no unsupported claim of an ISEF medal or international attendance is made. [TÜBİTAK report](https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi).
 
-The system's public-facing story is straightforward: **observe a branch, classify its visible stage, and display a result the user can interpret**. TensorFlow/Keras was used in the original model development and a mobile prototype was demonstrated. The diagrams are conceptual; they deliberately omit model and deployment internals.
+## At a glance
 
-The accompanying research investigated differences in disease progression among comparison groups, including a group involving *Bacillus subtilis*. The project poster describes slower symptom progression under the combined condition during the study period. This is an early experimental observation, **not** proof of a generally effective agricultural treatment.
+| Domain | Result |
+|---|---|
+| **Computer vision** | A CNN-based classifier distinguishing **four disease stages**, developed with TensorFlow/Keras |
+| **Mobile inference** | Working phone prototype displaying classifications and per-image confidence scores |
+| **Reported evaluation** | **88.33% accuracy**, as reported in the original 2022 research poster |
+| **Experimental research** | **12 olive saplings**, four comparison groups and four months of observations |
+| **Recognition** | TÜBİTAK **2022 national second place in Software**, following regional first-place recognition |
 
-## Interface demonstration
+## Research concept
 
-<img src="assets/mobile-experience.svg" alt="Illustrated reconstruction of two original mobile prototype screenshots, showing stage 1 and stage 4 predictions and confidence scores." width="100%">
+<img src="assets/overview.svg" width="100%" alt="High-level conceptual diagram: plant images to four-stage classifier to mobile result, alongside independent plant-study observations">
 
-<sub>Illustrative reconstruction of the original mobile prototype screenshots. The branch photographs and full original application are not distributed here. Individual confidence values describe the two pictured predictions, not model-wide accuracy.</sub>
+The question was whether imagery could help identify the **visible stage** of olive knot disease in a form that could be used without specialized laboratory equipment. A parallel plant study investigated disease progression and the potential role of *Bacillus subtilis* under experimental conditions. The work is a research prototype, **not** a validated commercial diagnosis or treatment.
 
-## What the demonstrations show
+## Mobile prototype
 
-The original materials include phone screenshots with stage-1 and stage-4 predictions and confidence percentages. **Per-image confidence (such as the 98.03% value in one screenshot) is not the same as evaluation accuracy**. The poster's 88.33% accuracy figure is reported separately.
+<img src="assets/mobile-experience.svg" alt="Illustrated reconstruction of the mobile model showing a stage 1 example and a stage 4 example" width="100%">
 
-A curated, code-free media package is retained for publishing an independent project gallery. The original poster is not hosted publicly because it contains code screenshots and detailed research procedures.
+The original app screenshots show stage-1 and stage-4 predictions, including **98.03%** and **93.27%** confidence in two respective examples. These are **prediction confidences**, distinct from the research poster's reported overall accuracy.
 
-## The work behind the project
+## Presentation and photographic archive
 
-- Developed the computer-vision classification approach and connected its outputs to an accessible mobile experience.
-- Organized a four-stage visual classification problem and reviewed training/validation behavior.
-- Connected AI results with a four-month experimental research program using observed plant progression.
-- Presented the engineering, scientific context and mobile demonstration in a formal research exhibition.
+I have a curated public research presentation made from my **original exhibition photos, award graphic, plant photographs, mobile screenshots and training curve**. A **source-free [web presentation](PRESENTATION.md)** is provided here, with [award records and citations](AWARDS_AND_SOURCES.md) and [media disclosures](MEDIA_CREDITS.md). The PDF, PowerPoint and selected full-resolution photo assets are prepared separately for repository upload; the GitHub connector does not currently support attaching those binary files.
 
-## Award and provenance
+The original full 2022 poster is **not** redistributed here because it contains code screenshots and detailed experimental procedures. This is an intentionally limited public release.
 
-The supplied award graphic reads **"Yazilim Dali Birincisi" (first place, software category)** under TUBITAK and Istanbul Technical University branding. It establishes software-category recognition but is not used here to infer an unsupported national ranking.
+## Intellectual property
 
-**Researcher:** Huseyin Eren Arikan (Eren Arikan)  
-**Supervising teacher (original poster):** Volkan Gonen
+**© 2026 Hüseyin Eren Arıkan. All rights reserved for original owned materials.** This repository does not grant an open-source licence to the unpublished software, model weights, data, or implementation. Institutional marks, official documents and photos owned by others remain with their rights holders. See [LICENSE.md](LICENSE.md) before reusing any material.
 
-## Disclosure boundary
+**Researcher and software developer:** Hüseyin Eren Arıkan  
+**Supervising teacher (2022 research):** Volkan Gönen
 
-**Published:** research problem, high-level workflow, broad tools, selected reported outcomes, recognition, conceptual illustrations.
-
-**Not published:** original model code, training scripts, architecture internals, trained weights, datasets, laboratory procedures, full poster, downloadable mobile package or proprietary documentation.
-
-This case study describes a research prototype rather than a production-ready diagnostic tool. More testing and external validation are necessary before field use.
-
-[Back to engineering profile](https://github.com/erudaperu)
+[Back to my GitHub profile](https://github.com/erudaperu)
