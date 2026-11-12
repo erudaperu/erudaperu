@@ -20,7 +20,7 @@ I'm developing **LAILOW** to connect campaign metrics, visual analysis and quest
 
 ## 02 / STM32 · Motor control & telemetry
 
-**C + ARM assembly · STM32L552 / Cortex-M33 · physical hardware**
+<a href="https://github.com/erudaperu/CEG3536_Lab"><img src="assets/stm32-system.svg" alt="STM32 motor control and telemetry: acquisition, event-driven firmware, PWM and UART. University team project." width="100%"></a>
 
 In this University of Ottawa team project, I worked on an event-driven motor-control system with sensor acquisition, encoder feedback, PWM, emergency-stop handling and serial telemetry. I document the architecture and validation evidence, including the measurements that remain open.
 
@@ -30,9 +30,9 @@ In this University of Ottawa team project, I worked on an event-driven motor-con
 
 <a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/hero.svg" alt="APOGEE — my solo rocket systems project, currently in planning and requirements" width="100%"></a>
 
-**In progress · planning and requirements.** I'm starting a solo rocket systems project that brings mechanical design, electronics and software together. I'm defining the models, subsystem interfaces and test plan first. My planned work spans CAD, avionics, embedded firmware, a ground station and offline data/AI analysis.
+**In progress · planning and requirements.** I'm starting a solo model-rocket project with a commercial motor, bringing mechanical design, electronics and software together. I'm defining the models, subsystem interfaces and test plan first. My planned work spans CAD, avionics, embedded firmware, a ground station and offline data/AI analysis.
 
-My first milestone pairs a synthetic-data replay tool with an avionics shortlist and a packaging concept. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
+My first milestone pairs a model-rocket concept and avionics plan with a synthetic-data replay tool. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
 
 **[Follow APOGEE →](https://github.com/erudaperu/apogee)** · [Read my roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap) · [See the open decisions](https://github.com/erudaperu/apogee/tree/main/docs/decisions)
 
