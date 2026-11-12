@@ -2,7 +2,10 @@
 
 # Olive Knot AI | National award-winning computer vision
 
-**2022 TÜBİTAK national second place in Software** · **Regional first place** · **Regeneron ISEF-linked selection pathway**
+**National Second Place in Software — TÜBİTAK 2204-A (2022)** · **Regional first place** · **Regeneron ISEF-linked selection pathway**
+
+**25,095 project submissions · 37,283 participating students · 216 national-final projects**  
+<sub>Official 2022 competition-wide figures across all 12 fields; the second-place award is in Software. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Source: TÜBİTAK</a>.</sub>
 
 An independent research project by **Hüseyin Eren Arıkan (Eren Arikan)**, exploring computer-vision classification of olive knot disease, a mobile prediction prototype, and scientific observation of how plant disease progressed under comparison conditions.
 
@@ -10,7 +13,7 @@ An independent research project by **Hüseyin Eren Arıkan (Eren Arikan)**, expl
 
 ## Why this achievement matters
 
-The TÜBİTAK 2204-A high-school research competition is a long-running national science and engineering program. In **2022**, it received **25,095 project submissions** from **37,283 students** across Türkiye. The national final included 216 projects selected following regional judging. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Official competition statistics and ceremony report</a>.
+The TÜBİTAK 2204-A high-school research competition is a long-running national science and engineering program. In **2022**, it received **25,095 project submissions** from **37,283 students** across Türkiye and all **12 competition fields**. Following regional judging, **216 projects** advanced to the national final. These are competition-wide totals, not the size of the Software category alone. <a href="https://tubitak.gov.tr/tr/haber/53-lise-ogrencileri-arastirma-projeleri-yarismasinin-kazananlari-odullerini-cumhurbaskani-erdoganin-elinden-aldi">Official competition statistics and ceremony report</a>.
 
 **Presidential ceremony:** The 2022 national awards were held at the **Presidential Complex in Ankara** with President Recep Tayyip Erdoğan present. The official report specifies that the President personally handed out first-place awards, while ministers and the TÜBİTAK president presented second-place and other prizes. That official distinction is retained in this portfolio.
 
