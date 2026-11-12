@@ -26,13 +26,13 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 
 **National second place in Software — TÜBİTAK 2204-A (2022)**, following regional first place. I built an olive knot image classifier and mobile prototype, and studied 12 olive saplings across four comparison groups over four months.
 
-<table><tr><td width="55%"><a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/award-portrait-supplied.jpg" alt="Award portrait supplied by Eren Arıkan, showing him with a research trophy and certificate" width="100%"></a></td><td width="45%"><strong>Awarded for the work, with the research open to inspect.</strong><br><br>The original exhibition photos, mobile screens, plant and lab images, training chart, and English research poster are all on the <a href="research/olive-knot-ai/README.md">project page</a>.<br><br><a href="research/olive-knot-ai/AWARDS_AND_SOURCES.md">Official result and sources ↗</a></td></tr></table>
+<table><tr><td width="55%"><a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/award-portrait-supplied.jpg" alt="Award portrait supplied by Eren Arıkan, showing him with a research trophy and certificate" width="100%"></a></td><td width="45%"><strong>Awarded for the work, with the research open to inspect.</strong><br><br>The original exhibition photos, mobile screens, plant and lab images, training chart, and English research poster are all on the <a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai">project page</a>.<br><br><a href="research/olive-knot-ai/AWARDS_AND_SOURCES.md">Official result and sources ↗</a></td></tr></table>
 
-<a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/award-ceremony-supplied.webp" alt="Wide scene of the 2022 TÜBİTAK student research awards ceremony stage, supplied by the project author" width="100%"></a>
+<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/award-ceremony-supplied.webp" alt="Wide scene of the 2022 TÜBİTAK student research awards ceremony stage, supplied by the project author" width="100%"></a>
 
 <sub>Award visuals supplied by me; the [official result](research/olive-knot-ai/AWARDS_AND_SOURCES.md) documents the national second-place Software award.</sub>
 
-**[Explore the full project ↗](research/olive-knot-ai/README.md)** · [English poster](research/olive-knot-ai/media/public-research-poster.pdf) · [Presentation](research/olive-knot-ai/media/public-presentation.pdf)
+**[Explore the full project ↗](https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai)** · [English poster](research/olive-knot-ai/media/public-research-poster.pdf) · [Presentation](research/olive-knot-ai/media/public-presentation.pdf)
 
 <a id="apogee"></a>
 ## APOGEE
