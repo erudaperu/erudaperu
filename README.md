@@ -1,6 +1,6 @@
 <img src="assets/masthead.svg" alt="Eren Arikan — software engineering and hardware & embedded systems" width="100%">
 
-<p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
+<p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#research">RESEARCH</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
 
 I'm **Eren Arikan**, a Computer Engineering student at **the University of Ottawa**. I work across **software engineering and hardware/embedded systems**, from analytics and simulation to firmware, sensors and telemetry. I'm looking for internships in both, with projects that make my code, design decisions and validation easy to inspect.
 
@@ -35,6 +35,17 @@ I'm defining an instrumented model rocket around a certified commercial motor, c
 **Current stage: planning and requirements.** My first milestone combines a system concept, a sensor-data contract and a reproducible replay tool. I haven't built the vehicle or flight system yet.
 
 **[Explore APOGEE ↗](https://github.com/erudaperu/apogee)** · [Architecture](https://github.com/erudaperu/apogee/tree/main/docs/architecture) · [Roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap)
+
+<a id="research"></a>
+## Award-winning research | Olive Knot AI
+
+**Computer vision, mobile ML and agricultural research**
+
+<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/assets/hero.svg" alt="Olive Knot AI: award-winning research in computer vision and mobile machine learning" width="100%"></a>
+
+I built a disease-stage image-classification model and mobile inference prototype, connecting an AI workflow with a four-month study of olive saplings and biocontrol conditions. The original research poster reports **88.33% classification accuracy** and the award graphic identifies **first place in the software category**. This public case study explains the result without distributing the research code, data or model.
+
+**[Explore the case study](https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai)**
 
 <a id="engineering"></a>
 ## More engineering
