@@ -32,7 +32,7 @@ In this University of Ottawa team project, I worked on an event-driven motor-con
 
 **In progress · planning and requirements.** I'm starting a solo rocket systems project that brings mechanical design, electronics and software together. I'm defining the models, subsystem interfaces and test plan first. My planned work spans CAD, avionics, embedded firmware, a ground station and offline data/AI analysis.
 
-My first milestone is a reproducible simulation and a bench-tested data pipeline. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
+My first milestone pairs a synthetic-data replay tool with an avionics shortlist and a packaging concept. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
 
 **[Follow APOGEE →](https://github.com/erudaperu/apogee)** · [Read my roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap) · [See the open decisions](https://github.com/erudaperu/apogee/tree/main/docs/decisions)
 
