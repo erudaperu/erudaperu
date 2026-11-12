@@ -26,7 +26,7 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 
 **My solo hardware + software project · in progress**
 
-<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-blueprint-v6.svg" alt="APOGEE conceptual model-rocket system blueprint — planned project, not a built vehicle" width="100%"></a>
+<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-blueprint-v7.svg" alt="APOGEE conceptual blueprint showing the planned airframe, avionics and data flow — not a built vehicle" width="100%"></a>
 
 <sub>Concept diagram for my planned model rocket.</sub>
 
