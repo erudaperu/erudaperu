@@ -1,6 +1,4 @@
-<a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/research-demonstration.jpg" alt="Eren Arıkan demonstrating his olive knot research beside the original poster and an olive specimen" width="100%"></a>
-
-<sub>Presenting my olive knot research with a specimen and original poster. [See the project evidence](research/olive-knot-ai/README.md).</sub>
+<img src="assets/masthead.svg" alt="Eren Arikan — software engineering and hardware & embedded systems" width="100%">
 
 <p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#research">RESEARCH</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
 
@@ -26,17 +24,15 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 <a id="research"></a>
 ## Olive Knot AI | Award-winning research
 
-<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/exhibition-booth.jpg" alt="Eren Arıkan at his 2022 TÜBİTAK exhibition booth with the research poster, olive specimens and mobile prototype" width="100%"></a>
+**National second place in Software — TÜBİTAK 2204-A (2022)**, following regional first place. I built an olive knot image classifier and mobile prototype, and studied 12 olive saplings across four comparison groups over four months.
 
-<sub>My research project on display at the 2022 TÜBİTAK exhibition. [See the original photo](research/olive-knot-ai/media/exhibition-booth.jpg).</sub>
+<table><tr><td width="55%"><a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/award-portrait-supplied.jpg" alt="Award portrait supplied by Eren Arıkan, showing him with a research trophy and certificate" width="100%"></a></td><td width="45%"><strong>Awarded for the work, with the research open to inspect.</strong><br><br>The original exhibition photos, mobile screens, plant and lab images, training chart, and English research poster are all on the <a href="research/olive-knot-ai/README.md">project page</a>.<br><br><a href="research/olive-knot-ai/AWARDS_AND_SOURCES.md">Official result and sources ↗</a></td></tr></table>
 
-**National second place in Software — TÜBİTAK 2204-A (2022)**, following regional first place. I built a four-stage olive knot image classifier and mobile prototype, and ran a four-month study involving 12 olive saplings. The original poster reports **88.33% classification accuracy** as a research result.
+<a href="research/olive-knot-ai/README.md"><img src="research/olive-knot-ai/media/award-ceremony-supplied.webp" alt="Wide scene of the 2022 TÜBİTAK student research awards ceremony stage, supplied by the project author" width="100%"></a>
 
-<a href="https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai"><img src="research/olive-knot-ai/media/public-research-poster.jpg" alt="Public edition of the original Olive Knot AI research poster, with code and detailed procedures obscured" width="100%"></a>
+<sub>Award visuals supplied by me; the [official result](research/olive-knot-ai/AWARDS_AND_SOURCES.md) documents the national second-place Software award.</sub>
 
-<sub>The original poster's public edition. [Open the PDF](research/olive-knot-ai/media/public-research-poster.pdf).</sub>
-
-**[Explore the photos, prototype and research ↗](https://github.com/erudaperu/erudaperu/tree/main/research/olive-knot-ai)** · [Public presentation](research/olive-knot-ai/media/public-presentation.pdf) · [Official award evidence](https://github.com/erudaperu/erudaperu/blob/main/research/olive-knot-ai/AWARDS_AND_SOURCES.md)
+**[Explore the full project ↗](research/olive-knot-ai/README.md)** · [English poster](research/olive-knot-ai/media/public-research-poster.pdf) · [Presentation](research/olive-knot-ai/media/public-presentation.pdf)
 
 <a id="apogee"></a>
 ## APOGEE

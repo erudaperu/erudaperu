@@ -6,15 +6,15 @@
 
 **National second place in Software, TÜBİTAK 2204-A (2022)** · Regional first place in Software
 
-I built a research prototype to classify the visible stage of olive knot disease from plant images, put the classifier into a mobile app, and studied disease progression in olive saplings over four months. The public archive shows the work as it was presented: real photographs, prototype screens, the training chart, and a public edition of my original research poster.
+I built a research prototype to classify the visible stage of olive knot disease from plant images, put the classifier into a mobile app, and studied disease progression in olive saplings over four months. This page gathers the exhibition photographs, award visuals, prototype screens, specimen and laboratory images, training chart, and an English edition of my 2022 research poster. The original Turkish poster remains in my private archive.
 
-**[View the public poster (PDF)](media/public-research-poster.pdf)** · [Public presentation (PDF)](media/public-presentation.pdf) · [PowerPoint](media/public-presentation.pptx) · [Award evidence](AWARDS_AND_SOURCES.md) · [Media and rights](MEDIA_CREDITS.md)
+**[Explore the full English poster (PDF)](media/public-research-poster.pdf)** · [Presentation (PDF)](media/public-presentation.pdf) · [PowerPoint](media/public-presentation.pptx) · [Award evidence](AWARDS_AND_SOURCES.md) · [Media and rights](MEDIA_CREDITS.md)
 
-## The original poster, ready to explore
+## Research poster in English
 
-<a href="media/public-research-poster.pdf"><img src="media/public-research-poster.jpg" alt="Public edition of Eren Arıkan's 2022 olive knot research poster; title, research context, plant images, results and charts remain visible while source code and detailed methods are obscured" width="100%"></a>
+<a href="media/public-research-poster.pdf"><img src="media/public-research-poster.jpg" alt="English edition of the 2022 olive knot research poster, retaining the original three-column layout, central development-code screenshot, plant images, experimental table, graphs, methods, findings and references" width="100%"></a>
 
-<sub>[Open the readable PDF](media/public-research-poster.pdf). This is a public edition of the original 2022 poster. The central code screenshot, exact experimental doses and procedures, and model/data workflow were removed from the PDF itself. The original stays private.</sub>
+<sub>[Open the full-size PDF](media/public-research-poster.pdf). This English edition follows the original poster's layout and preserves its figures, data, methods and historical code screenshot. The code image represents development work from 2022, **not the finished product**. The original Turkish PDF remains private.</sub>
 
 ## What I built and investigated
 
@@ -29,6 +29,12 @@ The research question was whether a phone image could give a useful, fast indica
 ## See the project at the exhibition
 
 <table><tr><td width="55%"><a href="media/research-demonstration.jpg"><img src="media/research-demonstration.jpg" alt="Eren demonstrating the olive knot project in front of the original poster and an olive specimen" width="100%"></a><br><sub>Explaining the project with a specimen and the original poster. [Full image](media/research-demonstration.jpg)</sub></td><td width="45%"><a href="media/regional-first-place-graphic.jpg"><img src="media/regional-first-place-graphic.jpg" alt="2022 TÜBİTAK and İstanbul Technical University graphic naming Hüseyin Eren Arıkan first place in the regional Software category" width="100%"></a><br><sub>The supplied **regional first-place** announcement. The national second-place result is documented separately in the [official final list](AWARDS_AND_SOURCES.md). [Full image](media/regional-first-place-graphic.jpg)</sub></td></tr></table>
+
+## Award visuals
+
+<table><tr><td width="55%"><a href="media/award-portrait-supplied.jpg"><img src="media/award-portrait-supplied.jpg" alt="Award portrait supplied for this showcase, showing Eren Arıkan with a TÜBİTAK research trophy and certificate" width="100%"></a><br><sub>Award portrait supplied for this showcase. [Open image](media/award-portrait-supplied.jpg)</sub></td><td width="45%"><a href="media/award-ceremony-supplied.webp"><img src="media/award-ceremony-supplied.webp" alt="Wide image supplied for this showcase showing the 2022 TÜBİTAK student research award ceremony stage" width="100%"></a><br><sub>2022 award-ceremony stage image supplied for this showcase. [Open image](media/award-ceremony-supplied.webp)</sub></td></tr></table>
+
+The [official TÜBİTAK final list](AWARDS_AND_SOURCES.md) documents the **national second-place Software award**. These two newly supplied visuals have no camera provenance attached, so they do not establish who personally presented the prize.
 
 ## Mobile prototype — real screens
 
@@ -56,7 +62,7 @@ The 2022 national awards ceremony took place at the Presidential Complex with Pr
 
 ## Public release and rights
 
-The original source code, model weights, training images, detailed model architecture, laboratory procedures, and unredacted poster remain private. This archive documents the problem, prototype and reported results without releasing the implementation. The original photographs are preserved as supplied, apart from the separately prepared public poster edition.
+The source repository, finished implementation, model weights and training-image dataset remain private. The English poster shows the original research methods and a historical code screenshot; that screenshot is a development representation, not the finished implementation. The original user-supplied image files are unchanged. The poster's figures and numerical results are retained in the English edition.
 
 **© 2026 Hüseyin Eren Arıkan. All rights reserved for original materials I own.** No open-source licence is granted. Institutional logos, official documents, graphics and photographs belonging to others remain with their respective rights holders. See [LICENSE.md](LICENSE.md) and [MEDIA_CREDITS.md](MEDIA_CREDITS.md).
 

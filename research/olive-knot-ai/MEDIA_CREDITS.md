@@ -1,6 +1,6 @@
 # Media catalogue and credits
 
-These nine original image files were supplied by the project author for this showcase and are published without photographic edits. The earlier and latest poster PDFs accessible during preparation had the same SHA-256 hash, so only one public poster edition was made. The unredacted original is not in this repository.
+The image files were supplied for this showcase and are published in their supplied form. The two poster PDF uploads available during preparation had the same SHA-256 hash, so this repository contains one matching English edition. The original Turkish PDF is kept in the author's private archive.
 
 | File | What it shows | Attribution / release note |
 |---|---|---|
@@ -13,7 +13,9 @@ These nine original image files were supplied by the project author for this sho
 | [olive-branch-specimen.jpg](media/olive-branch-specimen.jpg) | Olive branch specimen | Supplied original photograph. |
 | [laboratory-sample.jpg](media/laboratory-sample.jpg) | Plate from the plant research | Supplied original photograph; it does not publish the laboratory protocol. |
 | [training-validation-chart.jpg](media/training-validation-chart.jpg) | Original training and validation chart photograph | Supplied original photograph. The generic notebook prompt visible at the bottom is not implementation source. |
-| [public-research-poster.pdf](media/public-research-poster.pdf) and [preview](media/public-research-poster.jpg) | Public edition of the original 2022 poster | Code screenshot, exact doses, lab procedures and model/data workflow have been removed from the PDF content. The JPEG is rendered from that public edition. Institutional marks retain ownership. |
-| [public-presentation.pdf](media/public-presentation.pdf) and [PowerPoint](media/public-presentation.pptx) | Eight-slide photographic presentation made from the supplied images and public poster | Original photos are embedded without photographic retouching. Slide text summarizes the research and cites award sources in PowerPoint speaker notes. The deck contains no unredacted poster. |
+| [award-portrait-supplied.jpg](media/award-portrait-supplied.jpg) | Supplied portrait showing a trophy and certificate | Published unchanged. The filename and available metadata do not establish camera provenance; the [official result](AWARDS_AND_SOURCES.md) is the award evidence. |
+| [award-ceremony-supplied.webp](media/award-ceremony-supplied.webp) | Supplied wide ceremony-stage image | Published unchanged. Its provenance has not been independently verified; it is not evidence that a particular person presented the prize. |
+| [public-research-poster.pdf](media/public-research-poster.pdf) and [preview](media/public-research-poster.jpg) | English edition of the original 2022 research poster | The original visual layout, diagrams, plant images, quantitative tables, research methods and code screenshot are retained. Prose and labels were translated into English. The code image is a historical development representation, not a release of the finished implementation. The JPEG is rendered from the English PDF. Institutional marks retain ownership. |
+| [public-presentation.pdf](media/public-presentation.pdf) and [PowerPoint](media/public-presentation.pptx) | Eight-slide presentation made from the supplied images and English poster | Slide text summarizes the research and cites award sources in PowerPoint speaker notes. |
 
 The poster and photographs document a 2022 research project. They are not a current diagnosis or treatment recommendation. Institutional names and logos identify the competition, without implying endorsement. See [LICENSE.md](LICENSE.md).
