@@ -1,33 +1,49 @@
-<p align="center">
-  <img src="assets/profile-hero.svg" alt="Eren Arikan — computer engineering across embedded systems, software and applied AI" width="100%">
-</p>
+<img src="assets/profile-hero.svg" alt="Eren Arikan — software and hardware. I build across both." width="100%">
 
-<p align="center"><strong>Build the system. Measure what it does. Explain the tradeoffs.</strong></p>
+I'm **Eren Arikan**, a Computer Engineering student at the **University of Ottawa**. I build software and work close to the hardware it runs on—from Python analytics and C++ simulations to STM32 firmware, sensors and telemetry.
 
-I’m **Eren Arikan**, a Computer Engineering student at the **University of Ottawa**. My projects span embedded control, C++ simulation and data-driven software. I care about clear interfaces, useful validation and documentation that lets someone else inspect the work quickly.
+**I'm pursuing both software engineering and hardware/embedded internships.** I like owning a problem from its requirements through implementation, testing and documentation.
 
-### 01 / Flagship · LAILOW
+| Software engineering | Hardware & embedded systems |
+| :--- | :--- |
+| Python analytics, data validation and testable modules | C and ARM assembly on STM32L552 |
+| C++ numerical simulation and model assumptions | ADC/DMA, PWM, encoder feedback and UART telemetry |
+| Application architecture and documented interfaces | Host checks, target harnesses and recorded board validation |
 
-<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/hero.svg" alt="LAILOW synthetic campaign intelligence showcase" width="100%"></a>
+## 01 / LAILOW · My flagship project
 
-**Campaign intelligence, made inspectable.** LAILOW explores a workflow for bringing campaign metrics, visual analysis and question answering into one place. The [public case study](https://github.com/erudaperu/LAILOW-showcase) gives a product walkthrough, a conceptual architecture and a runnable analytics demo with **fictional data only**. The full project source and business data stay private.
+<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/hero.svg" alt="LAILOW — campaign intelligence, with a runnable synthetic analytics demo" width="100%"></a>
 
-**[Explore LAILOW](https://github.com/erudaperu/LAILOW-showcase)** · [Run the synthetic demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) · [See the architecture](https://github.com/erudaperu/LAILOW-showcase#architecture)
+I'm developing **LAILOW** to connect campaign metrics, visual analysis and question answering. My public case study walks through the product, explains the architecture and includes a runnable Python analytics demo with fictional data. I keep the original source and business data private.
 
-### 02 / Embedded systems · STM32 Motor Control & Telemetry
+**[Explore LAILOW →](https://github.com/erudaperu/LAILOW-showcase)** · [Run my synthetic demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) · [See the architecture](https://github.com/erudaperu/LAILOW-showcase#architecture)
 
-**C + ARM assembly on STM32L552 / Cortex-M33.** An event-driven motor controller with ADC/DMA acquisition, encoder feedback, PWM, emergency-stop handling and serial telemetry. The repository documents the architecture, Linux host checks, target harness and recorded board results, including the measurements that remain open. Built as a University of Ottawa team project.
+## 02 / STM32 · Motor control & telemetry
 
-**[Explore the system](https://github.com/erudaperu/CEG3536_Lab)** · [Review validation evidence](https://github.com/erudaperu/CEG3536_Lab#validation-evidence)
+**C + ARM assembly · STM32L552 / Cortex-M33 · physical hardware**
 
-### 03 / Simulation · Black Hole Simulation
+In this University of Ottawa team project, I worked on an event-driven motor-control system with sensor acquisition, encoder feedback, PWM, emergency-stop handling and serial telemetry. I document the architecture and validation evidence, including the measurements that remain open.
 
-**C++17 numerical motion in a compact, inspectable program.** A particle evolves under a softened central attraction; the repository includes the model assumptions, build steps, sample trace and a trajectory visualization.
+**[Explore the system →](https://github.com/erudaperu/CEG3536_Lab)** · [Review the validation evidence](https://github.com/erudaperu/CEG3536_Lab#validation-evidence)
 
-**[Explore the simulation](https://github.com/erudaperu/Black-Hole-Simulation)** · [See the trajectory](https://github.com/erudaperu/Black-Hole-Simulation/blob/main/docs/trajectory.svg)
+## 03 / APOGEE · My next big solo build
+
+<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/hero.svg" alt="APOGEE — my solo rocket systems project, currently in planning and requirements" width="100%"></a>
+
+**In progress · planning and requirements.** I'm starting a solo rocket systems project that brings mechanical design, electronics and software together. I'm defining the models, subsystem interfaces and test plan first. My planned work spans CAD, avionics, embedded firmware, a ground station and offline data/AI analysis.
+
+My first milestone is a reproducible simulation and a bench-tested data pipeline. The repository is my engineering plan and build journal; hardware, implementation and flight results will be added as I complete them.
+
+**[Follow APOGEE →](https://github.com/erudaperu/apogee)** · [Read my roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap) · [See the open decisions](https://github.com/erudaperu/apogee/tree/main/docs/decisions)
+
+## 04 / Black Hole Simulation · Numerical software
+
+**C++17 · modelling · reproducible output**
+
+I built a compact simulation of particle motion under a softened central force. I document the model assumptions, build steps and trajectory output so the behaviour is straightforward to inspect.
+
+**[Explore the simulation →](https://github.com/erudaperu/Black-Hole-Simulation)** · [See the trajectory](https://github.com/erudaperu/Black-Hole-Simulation/blob/main/docs/trajectory.svg)
 
 ---
 
-**What I work with:** Python · C · C++ · ARM assembly · embedded systems · test harnesses · numerical simulation · data analysis
-
-For the fastest review, start with **LAILOW’s quick walkthrough**, then the **STM32 architecture and validation table**. The repositories above distinguish demonstrated behaviour from future work and list the commands needed to inspect or run each project.
+**How I work:** I make the assumptions visible, keep interfaces understandable and use test results to separate what works from what I still need to prove.
