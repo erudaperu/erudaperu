@@ -11,13 +11,9 @@ I'm **Eren Arikan**, a Computer Engineering student at **the University of Ottaw
 
 **My flagship project · campaign intelligence**
 
-<a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-product-v6.png" alt="LAILOW campaign intelligence — product cover featuring the real dashboard with fictional data" width="100%"></a>
-
 I'm developing LAILOW to connect campaign metrics, visual analysis and question answering. My public case study pairs a prototype walkthrough with a **separate, runnable Python analytics demo** using fictional records. I keep the original application source and business data private.
 
-<a href="https://github.com/erudaperu/LAILOW-showcase#product-walkthrough"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/dashboard-overview.jpg" alt="My LAILOW prototype dashboard running with synthetic campaign data" width="100%"></a>
-
-<sub>My prototype interface, shown with synthetic data.</sub>
+<table><tr><td width="42%" valign="top"><a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-product-v6.png" alt="LAILOW product cover featuring the campaign dashboard with fictional data" width="100%"></a><br><sub>Product cover built around the working prototype. <a href="https://github.com/erudaperu/LAILOW-showcase">Open the case study ↗</a></sub></td><td width="58%" valign="top"><a href="https://github.com/erudaperu/LAILOW-showcase#product-walkthrough"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/dashboard-landscape.jpg" alt="Actual LAILOW Streamlit interface showing the interactive 3D spend landscape with synthetic campaign data" width="100%"></a><br><sub>The real 3D spend landscape in the prototype, using synthetic records. <a href="https://github.com/erudaperu/LAILOW-showcase/blob/main/assets/dashboard-landscape.jpg">View full image ↗</a></sub></td></tr></table>
 
 **[Explore LAILOW ↗](https://github.com/erudaperu/LAILOW-showcase)** · [Run the demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) · [Architecture](https://github.com/erudaperu/LAILOW-showcase#architecture)
 
@@ -39,13 +35,9 @@ I'm developing LAILOW to connect campaign metrics, visual analysis and question 
 
 **My solo hardware + software project · in progress**
 
-<a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-blueprint-v7.svg" alt="APOGEE conceptual blueprint showing the planned airframe, avionics and data flow — not a built vehicle" width="100%"></a>
-
-<sub>Concept diagram for my planned model rocket.</sub>
-
 I'm defining an instrumented model rocket around a certified commercial motor, connecting **CAD and avionics** with **C/C++ firmware, ground software and offline analysis**.
 
-**Current stage: planning and requirements.** My first milestone combines a system concept, a sensor-data contract and a reproducible replay tool. I haven't built the vehicle or flight system yet.
+<table><tr><td width="58%" valign="top"><a href="https://github.com/erudaperu/apogee"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/apogee-blueprint-v7.svg" alt="APOGEE engineering concept drawing of a planned model rocket, avionics bay and sensor-to-analysis path; no built vehicle is depicted" width="100%"></a><br><sub>My model rocket and avionics concept. <a href="https://github.com/erudaperu/apogee">Explore the project ↗</a></sub></td><td width="42%" valign="top"><a href="https://github.com/erudaperu/apogee#the-system-im-designing"><img src="https://raw.githubusercontent.com/erudaperu/apogee/main/assets/system-map.svg" alt="APOGEE proposed system map linking model and CAD, rocket sensors, firmware logger, ground software and offline analysis" width="100%"></a><br><sub>The planned measurement-to-analysis path.</sub><br><br><strong>Current stage:</strong> planning and requirements. My first milestone combines a system concept, a sensor-data contract and a reproducible replay tool. I haven't built the vehicle or flight system yet.</td></tr></table>
 
 **[Explore APOGEE ↗](https://github.com/erudaperu/apogee)** · [Architecture](https://github.com/erudaperu/apogee/tree/main/docs/architecture) · [Roadmap](https://github.com/erudaperu/apogee/tree/main/docs/roadmap)
 
