@@ -1,4 +1,4 @@
-<img src="assets/masthead.svg" alt="Eren Arikan — software engineering and hardware & embedded systems" width="100%">
+<img src="assets/masthead.svg" alt="Hi, I'm Eren Arikan — a curious computer engineering student building software and hardware" width="100%">
 
 <p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#research">RESEARCH</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
 
@@ -13,7 +13,9 @@ I'm **Eren Arikan**, a Computer Engineering student at **the University of Ottaw
 
 I'm developing LAILOW to connect campaign metrics, visual analysis and question answering. My public case study pairs a prototype walkthrough with a **separate, runnable Python analytics demo** using fictional records. I keep the original application source and business data private.
 
-<table><tr><td width="55%" valign="top"><a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-product-v6.png" alt="LAILOW product cover featuring the campaign dashboard with fictional data" width="100%"></a><br><sub>Product cover built around the working prototype. <a href="https://github.com/erudaperu/LAILOW-showcase">Open the case study ↗</a></sub></td><td width="45%" valign="top"><a href="https://github.com/erudaperu/LAILOW-showcase#product-walkthrough"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/dashboard-landscape.jpg" alt="Actual LAILOW Streamlit interface showing the interactive 3D spend landscape with synthetic campaign data" width="100%"></a><br><sub>The real 3D spend landscape in the prototype, using synthetic records. <a href="https://github.com/erudaperu/LAILOW-showcase/blob/main/assets/dashboard-landscape.jpg">View full image ↗</a></sub></td></tr></table>
+<p align="center"><a href="https://github.com/erudaperu/LAILOW-showcase"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/lailow-product-v6.png" alt="LAILOW product cover featuring the campaign dashboard with fictional data" width="82%"></a><br><sub>Product cover built around the working prototype. <a href="https://github.com/erudaperu/LAILOW-showcase">Open the case study ↗</a></sub></p>
+
+<p align="center"><a href="https://github.com/erudaperu/LAILOW-showcase#product-walkthrough"><img src="https://raw.githubusercontent.com/erudaperu/LAILOW-showcase/main/assets/dashboard-landscape.jpg" alt="Actual LAILOW Streamlit interface showing the interactive 3D spend landscape with synthetic campaign data" width="70%"></a><br><sub>The real 3D spend landscape in the prototype, using synthetic records. <a href="https://github.com/erudaperu/LAILOW-showcase/blob/main/assets/dashboard-landscape.jpg">View full image ↗</a></sub></p>
 
 **[Explore LAILOW ↗](https://github.com/erudaperu/LAILOW-showcase)** · [Run the demo](https://github.com/erudaperu/LAILOW-showcase#try-the-synthetic-demo) · [Architecture](https://github.com/erudaperu/LAILOW-showcase#architecture)
 
