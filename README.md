@@ -1,5 +1,3 @@
-<img src="assets/masthead.svg" alt="Hi, I'm Eren Arikan — a curious computer engineering student building software and hardware" width="100%">
-
 <p align="center"><a href="#lailow">LAILOW</a> &nbsp; / &nbsp; <a href="#research">RESEARCH</a> &nbsp; / &nbsp; <a href="#apogee">APOGEE</a> &nbsp; / &nbsp; <a href="#engineering">ENGINEERING</a></p>
 
 I'm **Eren Arikan**, a Computer Engineering student at **the University of Ottawa**. I work across **software engineering and hardware/embedded systems**, from analytics and simulation to firmware, sensors and telemetry. I'm looking for internships in both, with projects that make my code, design decisions and validation easy to inspect.
